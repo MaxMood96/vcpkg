@@ -1642,7 +1642,7 @@
     },
     "ceres": {
       "baseline": "2.2.0",
-      "port-version": 2
+      "port-version": 3
     },
     "cfitsio": {
       "baseline": "3.49",
@@ -4314,6 +4314,10 @@
     },
     "kf5xmlgui": {
       "baseline": "5.98.0",
+      "port-version": 0
+    },
+    "kf6archive": {
+      "baseline": "6.7.0",
       "port-version": 0
     },
     "kfr": {
@@ -6998,7 +7002,7 @@
     },
     "opencv4": {
       "baseline": "4.11.0",
-      "port-version": 2
+      "port-version": 3
     },
     "opendnp3": {
       "baseline": "3.1.1",
@@ -9109,7 +9113,7 @@
       "port-version": 0
     },
     "sqlite3": {
-      "baseline": "3.50.3",
+      "baseline": "3.50.4",
       "port-version": 0
     },
     "sqlitecpp": {
